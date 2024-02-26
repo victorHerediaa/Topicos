@@ -1,0 +1,1 @@
+En este script debes tener el indexScript1.html y lo que hace es generar 10 contenedores de colores al azar

@@ -1,0 +1,1 @@
+En este script se necesita tener el indexScript2.html enlazado y realiza 5 parrafos con tecto aleatorio y en consola te dice cuantos caracteres tiene cada parrafo

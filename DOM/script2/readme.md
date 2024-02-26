@@ -1,0 +1,1 @@
+Este script necesita del indexScript2.html y  hace contenedores con colores que no se repitan en base a 20 colores 
