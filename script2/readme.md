@@ -4,6 +4,8 @@
 Este script en JavaScript crea divs coloridos . Cada div tiene una altura fija de 100px y su color es seleccionado aleatoriamente de una paleta predefinida. El bucle genera 10 divs en total.
 ##Instrucciones de Uso
 debes tener enlazado el archivo index.html 
+<pre>
+~~~
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -15,6 +17,8 @@ debes tener enlazado el archivo index.html
 <body>
 </body>
 </html> 
+~~~
+<pre>
 Con este link puedes ver funcionando el script
 http://127.0.0.1:5500/script2/
 en dado caso que no funcione tendras que lanzar tu server local 
