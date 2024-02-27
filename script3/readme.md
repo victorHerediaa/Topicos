@@ -9,5 +9,7 @@ Integración en HTML
 El script utiliza un conjunto predefinido de palabras y crea párrafos con una longitud aleatoria entre 50 y 100 palabras. Cada vez que se llama a la función crearParrafo(), se genera un párrafo único con palabras seleccionadas al azar.
 
 Con este link puedes ver funcionando el script
-http://127.0.0.1:5500/script3/
+
+http://127.0.0.1:5500/script3/ 
+
 en dado caso que no funcione tendras que lanzar tu server local 
